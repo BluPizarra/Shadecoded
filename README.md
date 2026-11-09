@@ -1,9 +1,12 @@
 # Shadecoded — Your shade, but make it perfect.
 
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Shadecoded-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://blupizarra.github.io/Shadecoded/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design%20Prototype-B3665B?style=for-the-badge)](https://github.com/BluPizarra/Shadecoded)
+
+> 🌐 **Live Website**: **[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
 
 > **Cross-brand foundation shade intelligence prototype designed with formula-first guidance, real-time lighting simulations, and user-centered design principles.**
 
@@ -141,14 +144,10 @@ Navigate to `http://localhost:8000` in your web browser.
 
 ---
 
-## 🌐 Live GitHub Pages Deployment
+## 🌐 Live Website
 
-To enable free instant hosting on GitHub Pages:
-1. Go to **Settings** > **Pages** in the [GitHub Repository](https://github.com/BluPizarra/Shadecoded).
-2. Under **Build and deployment**, select **Deploy from a branch**.
-3. Choose branch `main` and folder `/ (root)`.
-4. Click **Save**. The live URL will be accessible at:
-   `https://blupizarra.github.io/Shadecoded/`
+The production application is deployed and live on GitHub Pages:
+👉 **[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
 
 ---
 
@@ -158,4 +157,5 @@ To enable free instant hosting on GitHub Pages:
 - **Course**: User Experience Design ([USERDES])
 - **Academic Year / Term**: 2nd Year, Term 1
 - **Project Topic**: Precision Cross-Brand Foundation Shade Intelligence & Matrix Lookup System
+- **Live Demo**: [https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)
 - **Repository**: [https://github.com/BluPizarra/Shadecoded](https://github.com/BluPizarra/Shadecoded)
