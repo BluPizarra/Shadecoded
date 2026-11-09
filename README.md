@@ -6,7 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design%20Prototype-B3665B?style=for-the-badge)](https://github.com/BluPizarra/Shadecoded)
 
-> 🌐 **Live Website**: **[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
+> **Live Website**: **[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
 
 > **Cross-brand foundation shade intelligence prototype designed with formula-first guidance, real-time lighting simulations, and user-centered design principles.**
 
@@ -14,7 +14,7 @@ Developed by **Bludylan Cyrus A. Pizarra** for the **User Experience Design ([US
 
 ---
 
-## 🌟 Overview & Problem Statement
+## Overview & Problem Statement
 
 Finding the correct foundation shade across beauty brands is notoriously frustrating. Different cosmetic houses use divergent shade-naming systems (e.g., MAC’s inverted NC/NW system vs. Fenty’s 3-digit numbering vs. L'Oréal’s letter-number codes), while environmental lighting and skin oxidation cause foundations that looked perfect in-store to appear mismatched in daylight.
 
@@ -22,7 +22,7 @@ Finding the correct foundation shade across beauty brands is notoriously frustra
 
 ---
 
-## 🗂️ Organized Project Architecture
+## Organized Project Architecture
 
 ```text
 Shadecoded/
@@ -53,7 +53,7 @@ Shadecoded/
 └── README.md                            # Comprehensive project documentation
 ```
 
-### ✨ Key Organizational Highlights
+### Key Organizational Highlights
 - **Production-Ready Web Hosting**: `index.html` provides seamless root access out-of-the-box for GitHub Pages and static web servers.
 - **Academic Submission Parity**: Preserves `shadecoded.html` and `[USERDES] PIZARRA_SHADECODED.html` aliases to satisfy institutional grading requirements.
 - **Modular Asset Separation**: Extracted brand swatches and reference photography into `assets/swatches/` while archiving early prototype iterations in `archive/v1_prototype/`.
@@ -61,9 +61,9 @@ Shadecoded/
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 1. 🔍 Cross-Brand Shade Intelligence Matrix
+### 1. Cross-Brand Shade Intelligence Matrix
 - Comprehensive **15 skin-tone matrix rows** spanning **Fair, Light, Light-Medium, Medium, Tan, and Deep** depths across **Cool, Neutral, and Warm** undertones.
 - Direct cross-lookup among 5 global foundation leaders:
   - **MAC**: *Studio Fix Fluid* (NC / NW notation)
@@ -72,34 +72,34 @@ Shadecoded/
   - **L'Oréal Paris**: *True Match Super-Blendable* (C / N / W notation)
   - **NARS**: *Light Reflecting & Sheer Glow* (Named shades, e.g., Mont Blanc, Deauville, Syracuse)
 
-### 2. 💡 Dynamic Real-Time Lighting Visualizer
+### 2. Dynamic Real-Time Lighting Visualizer
 Simulate how your selected shade swatch responds to real environmental color temperatures:
 - **Daylight (5500K)** — High-CRI natural sky reference for true color evaluation.
 - **Office Fluorescent (4000K)** — Cool office lighting highlighting oxidation and ashiness.
 - **Golden Hour (3200K)** — Warm afternoon sun accentuating golden/olive undertones.
 - **Evening Candlelight (2400K)** — Low warm ambiance simulating dinner and event settings.
 
-### 3. 📸 Client-Side Photo Shade Scanner
+### 3. Client-Side Photo Shade Scanner
 - Interactive photo upload modal allowing users to test skin tone and undertone balance directly in the browser.
 - **Privacy-first**: Images are processed strictly on client-side memory using `URL.createObjectURL` and never uploaded to remote servers.
 
-### 4. ☀️ Seasonal Tone Adjustment
+### 4. Seasonal Tone Adjustment
 - One-click seasonal toggle (**Winter Pale**, **True Match**, **Summer Tan**) that dynamically shifts recommendations by ±1 tone depth to match natural melanin cycles.
 
-### 5. 🔬 Skin Type & Ingredient Compatibility Checker
+### 5. Skin Type & Ingredient Compatibility Checker
 - Evaluates skin conditions (**Oily, Dry, Combination, Sensitive**) against formula components (Silicones, Perlite/Clay, Skincare Botanicals, Denatured Alcohol, Fragrance) with clear warnings and recommendations.
 
-### 6. 🌓 Responsive Design & Dark Mode
+### 6. Responsive Design & Dark Mode
 - Full dark/light mode toggle with smooth CSS variable transitions (`body.dark-lighting`).
 - Tactile, editorial design aesthetic featuring typography from **Fraunces**, **Inter**, and **IBM Plex Mono**.
 - Accessible keyboard navigation and mobile-responsive layout.
 
-### 7. 🗳️ Interactive Community Polls
+### 7. Interactive Community Polls
 - Embedded real-time polling widget capturing user feedback on formula longevity, shade breadth, and skin-type preferences.
 
 ---
 
-## 🎨 Color Palette & Typography
+## Color Palette & Typography
 
 ### Design System Colors
 
@@ -122,7 +122,7 @@ Simulate how your selected shade swatch responds to real environmental color tem
 
 ---
 
-## 💻 How to View & Run Locally
+## How to View & Run Locally
 
 ### 1. Clone the Repository
 ```bash
@@ -144,14 +144,14 @@ Navigate to `http://localhost:8000` in your web browser.
 
 ---
 
-## 🌐 Live Website
+## Live Website
 
 The production application is deployed and live on GitHub Pages:
-👉 **[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
+**[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
 
 ---
 
-## 🎓 Academic Information
+## Academic Information
 
 - **Student Name**: Bludylan Cyrus A. Pizarra
 - **Course**: User Experience Design ([USERDES])
