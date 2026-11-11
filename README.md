@@ -1,12 +1,12 @@
 # Shadecoded — Your shade, but make it perfect.
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Shadecoded-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://blupizarra.github.io/Shadecoded/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design%20Prototype-646CFF?style=for-the-badge)](https://github.com/BluPizarra/Shadecoded)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Academic](https://img.shields.io/badge/APC-USERDES%20Final%20Project-B3665B?style=for-the-badge)](https://www.apc.edu.ph/)
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Shadecoded-404258?style=for-the-badge&logo=githubpages&logoColor=white)](https://blupizarra.github.io/Shadecoded/)
+[![HTML5](https://img.shields.io/badge/HTML5-474E68?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-50577A?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-6B728E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design%20Prototype-404258?style=for-the-badge)](https://github.com/BluPizarra/Shadecoded)
+[![License: MIT](https://img.shields.io/badge/License-MIT-474E68?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Academic](https://img.shields.io/badge/APC-USERDES%20Final%20Project-50577A?style=for-the-badge)](https://www.apc.edu.ph/)
 
 > **Live Website**: **[https://blupizarra.github.io/Shadecoded/](https://blupizarra.github.io/Shadecoded/)**
 
